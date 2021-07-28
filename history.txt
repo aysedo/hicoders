@@ -1,0 +1,5 @@
+commit 95fe04c889910db72a8bbcf2d17bd646ded3f97a
+Author: Ayse Dogan <coders2122@gmail.com>
+Date:   Wed Jul 28 12:29:53 2021 +0200
+
+    benim ilk commit mesajim
