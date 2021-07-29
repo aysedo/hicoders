@@ -1,0 +1,19 @@
+commit f2c1e7caae77ea5d881aa75cd142b7e3a6ba77fe
+Author: Ayse Dogan <coders2122@gmail.com>
+Date:   Wed Jul 28 13:38:30 2021 +0200
+
+    Revert "ikinci commit mesajim"
+    
+    This reverts commit 2aba3008403e3b39445d2ff0e8015dbe2c8f886f.
+
+commit 2aba3008403e3b39445d2ff0e8015dbe2c8f886f
+Author: Ayse Dogan <coders2122@gmail.com>
+Date:   Wed Jul 28 13:14:08 2021 +0200
+
+    ikinci commit mesajim
+
+commit 95fe04c889910db72a8bbcf2d17bd646ded3f97a
+Author: Ayse Dogan <coders2122@gmail.com>
+Date:   Wed Jul 28 12:29:53 2021 +0200
+
+    benim ilk commit mesajim
